@@ -1,0 +1,16 @@
+# Salidas de compilación
+[Bb]in/
+[Oo]bj/
+
+# Visual Studio 
+.vs/
+.vscode/
+.idea/
+*.user
+*.suo
+
+# Otros
+*.log
+TestResults/
+.DS_Store
+Thumbs.db
